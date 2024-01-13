@@ -3,3 +3,39 @@
     font-style: italic;
     color: aquamarine;
 }
+footer{
+    text-align: center;
+}
+#title{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: initial;
+    color: rgb(40, 89, 181);
+}
+label{
+    display: block;
+    padding-bottom: 5px;
+}
+.regForm{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+
+}
+#field{
+    width: 85%;
+    border-radius: 15px;
+    border-block-color: rgb(180, 56, 56);
+}
+.navbar{
+    text-decoration: none;
+    color: rgb(25, 86, 171);
+    display: flex;
+    justify-content: space-between;
+    
+}
+nav a{
+    text-decoration: none;
+    color: rgb(25, 86, 171);
+    
+
+}
